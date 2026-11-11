@@ -1,0 +1,64 @@
+﻿RTTY Station - DISCLAIMER / VRIJWARING
+=====================================
+
+NEDERLANDS
+----------
+RTTY Station is gratis software en wordt geleverd "zoals het is" (as is), zonder enige
+garantie. Er is geen garantie dat het programma foutloos werkt of geschikt is voor een
+bepaald doel.
+
+- Gebruik is op eigen risico. De maker is niet aansprakelijk voor schade of verlies door
+  het gebruik van dit programma, of doordat het niet gebruikt kan worden, zoals schade aan
+  radio, antenne of computer, verlies van gegevens of storing.
+- Jij bent verantwoordelijk voor wat je uitzendt. Zend alleen op frequenties, banden en met
+  vermogens die je machtiging toestaat.
+- Aan dit programma, de handleiding en de vertalingen kunnen geen rechten worden ontleend.
+- Meterwaarden zijn een benadering, geen meetinstrument.
+- Niet gelieerd aan Icom Inc. "Icom", "IC-7300" en "IC-7300MK2" zijn merknamen van Icom Inc.
+
+Windows kan bij het installeren melden "Uw pc wordt beschermd". Dat komt doordat dit
+gratis programma niet digitaal ondertekend is. Klik op "Meer informatie" en daarna op
+"Toch uitvoeren". Download het programma alleen van github.com/PD3RAH/rtty-station.
+
+ENGLISH
+-------
+RTTY Station is free software and is provided "as is", without any warranty. There is no
+guarantee that the program works without errors or is fit for any particular purpose.
+
+- Use is at your own risk. The author is not liable for any damage or loss caused by using
+  this program, or by not being able to use it, such as damage to radio, antenna or
+  computer, loss of data or interference.
+- You are responsible for what you transmit. Only transmit on frequencies and bands, and
+  with power levels, that your licence permits.
+- No rights can be derived from this program, the manual or the translations.
+- Meter readings are approximations, not a measuring instrument.
+- Not affiliated with Icom Inc. "Icom", "IC-7300" and "IC-7300MK2" are trademarks of Icom Inc.
+
+Windows may show "Windows protected your PC" during installation because this free
+program is not code-signed. Click "More info" and then "Run anyway". Only download the
+program from github.com/PD3RAH/rtty-station.
+
+=====================================
+LICENSE (MIT)
+=====================================
+MIT License
+
+Copyright (c) 2026 Richard A. Hendriksen (PD3RAH)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
